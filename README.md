@@ -227,8 +227,8 @@ ______
 
 ### Step 1: Clone Repository
   ```bash
-  git clone ksaikiran950/Cyber_Risk_Assessment_Platform.git
-  cd Cyber_Risk_Assessment_Platform
+  git clone nevinbeno/The-CRATIP.git
+  cd The-CRATIP
   ```
 
 ### Step 2: Create Virtual Environment
