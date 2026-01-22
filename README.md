@@ -46,7 +46,7 @@ The Cyber Risk Assessment Platform (CRATIP) is an enterprise-grade security asse
 ## Repository Structure
 ```
 Directory structure:
-└── ksaikiran950-cyber_risk_assessment-threat_intelligence_platform__using_python/
+└── nevinbeno-The-CRATIP/
     ├── README.md
     ├── requirements.txt
     ├── backend/
