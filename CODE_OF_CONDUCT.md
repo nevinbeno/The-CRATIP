@@ -27,6 +27,6 @@ Project maintainers are responsible for clarifying the standards of acceptable b
 Maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, issues, and other contributions that are not aligned with this Code of Conduct.
 ___
 ### Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting ksaikiran950@gmail.com. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting [Nevin Beno](nevinbeno@gmail.com). All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances.
 
 Project maintainers are obligated to maintain confidentiality with regard to the reporter of an incident.
