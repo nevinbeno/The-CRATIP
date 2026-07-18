@@ -42,6 +42,14 @@ The Cyber Risk Assessment Platform (CRATIP) is an enterprise-grade security asse
 ✅ **Audit-Ready Reports** - PDF, Excel, and CSV export capabilities  
 ✅ **AI Analyst** - OpenAI-powered threat analysis and remediation recommendations
 
+## Output (scan result of scanme.nmap.org)
+<div align="center">
+    <img src="media/dashboard.png" hight=65>Dashboard</img><br>
+    <img src="media/hosts-detected.png" hight=65>Nmap discovery</img><br>
+    <img src="media/maps.png" hight=65>Folium Maps</img><br>
+    <img src="media/ai-reasoning.png" hight=65>AI-Reasoning<img><br>
+</div>
+
 ---
 ## Repository Structure
 ```
